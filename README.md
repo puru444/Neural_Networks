@@ -1,2 +1,2 @@
 # Neural_Networks
-Neural Networks (Deep Learning)
+CASE STUDY: Venture Funding with Deep Learning Machine Learning Model (Model Type: ANN)
